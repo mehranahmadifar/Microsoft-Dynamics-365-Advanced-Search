@@ -8,3 +8,5 @@ With this solution, you can reach the desired record instead of placing an aster
 The entered phrase is also searched in all the fields specified in Quick Find View!
 
 In addition, this solution plugin works for the user and does not prevent the operation of plugins.
+
+Can be installed on Microsoft CRM 2015 and 2016 and Microsoft Dynamics 365.
