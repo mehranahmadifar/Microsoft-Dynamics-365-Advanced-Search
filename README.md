@@ -6,3 +6,5 @@ Microsoft Dynamics Search is very consistent and inefficient even if you have ad
 With this solution, you can reach the desired record instead of placing an asterisk in the search phrase with space between letters or phrases. 
 
 The entered phrase is also searched in all the fields specified in Quick Find View!
+
+In addition, this solution plugin works for the user and does not prevent the operation of plugins.
