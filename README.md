@@ -10,3 +10,5 @@ The entered phrase is also searched in all the fields specified in Quick Find Vi
 In addition, this solution plugin works for the user and does not prevent the operation of plugins.
 
 Can be installed on Microsoft CRM 2015 and 2016 and Microsoft Dynamics 365.
+
+To import and use the Solution go to Releases tab (https://github.com/mehranahmadifar/Microsoft-Dynamics-365-Advanced-Search/releases)
