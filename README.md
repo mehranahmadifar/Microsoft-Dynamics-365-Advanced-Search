@@ -1,4 +1,4 @@
-# advancedsearch
+# Microsoft-Dynamics-365-Advanced-Search
 Advanced Search Solution for Microsoft Dynamics 365. 
 
 Microsoft Dynamics Search is very consistent and inefficient even if you have added the search fields in Quick Find View.  
